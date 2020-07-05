@@ -15,7 +15,9 @@ intro:
   description: "\n"
 main:
   heading: blurb
-  description: "\n"
+  description: |-
+    
+    a desciption
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/steve2.jpg
