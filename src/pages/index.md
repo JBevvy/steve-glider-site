@@ -12,7 +12,8 @@ description: Her's another bit of text
 intro:
   blurbs: []
   heading: Got to have a heading here also
-  description: "\n"
+  description: |
+    and a description - it don't like empty!
 main:
   heading: blurb
   description: |-
