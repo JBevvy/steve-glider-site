@@ -6,13 +6,17 @@ title: Another page about Gliders
 image: /img/steve2.jpg
 description: placeholder text
 intro:
-  blurbs: []
+  blurbs:
+    - image: /img/steve3.jpg
+      text: this is a blurb!
   heading: Like what u see?
   description: |
     yakka yakka
 main:
   heading: A heading that is required
-  description: "\n"
+  description: |-
+    
+    this is some more txt
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/steve3.jpg
@@ -27,5 +31,10 @@ full_image: /img/steve3.jpg
 pricing:
   heading: Stuff
   description: stuff
-  plans: []
+  plans:
+    - plan: this can go
+      price: its free
+      description: hello!
+      items:
+        - an item
 ---
