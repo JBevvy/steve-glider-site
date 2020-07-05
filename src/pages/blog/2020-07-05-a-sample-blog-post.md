@@ -10,6 +10,8 @@ tags:
 ---
 some sample text
 
+![glider](/img/steve3.jpg "Steve's Glider")
+
 a list of bullets
 
 * one
