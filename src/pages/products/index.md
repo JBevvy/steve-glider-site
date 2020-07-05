@@ -26,7 +26,9 @@ main:
   image3:
     alt: glider
     image: /img/steve3.jpg
-testimonials: []
+testimonials:
+  - quote: bet you need one of these too!
+    author: hey-ooo!
 full_image: /img/steve3.jpg
 pricing:
   heading: Stuff
